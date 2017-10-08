@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disc Test", "Disc Test.csproj", "{16DEFB7F-E2EB-396F-5F1F-8AC1E61AA324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disc Test.Editor", "Disc Test.Editor.csproj", "{F457F56C-B042-5192-207E-CDF479519966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DEFB7F-E2EB-396F-5F1F-8AC1E61AA324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DEFB7F-E2EB-396F-5F1F-8AC1E61AA324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DEFB7F-E2EB-396F-5F1F-8AC1E61AA324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DEFB7F-E2EB-396F-5F1F-8AC1E61AA324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F457F56C-B042-5192-207E-CDF479519966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F457F56C-B042-5192-207E-CDF479519966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F457F56C-B042-5192-207E-CDF479519966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F457F56C-B042-5192-207E-CDF479519966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
